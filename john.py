@@ -19,7 +19,7 @@ while john_doing_his_job is not True:
         print("John is staring of into space questioning his life decisions.")
     
     if minutes == 10:
-        print("John is day dreanig about going outside and using his vape")
+        print("John is day dreamig about going outside and using his vape")
     
     if minutes == 15:
         print('John is deppressing me with how long he is taking to start the lesson')
